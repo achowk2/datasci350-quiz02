@@ -1,0 +1,37 @@
+/* Background */
+body {
+  background-color: #f8f9fa;
+}
+
+/* Main headings */
+h1 {
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+h2 {
+  color: #34495e;
+  margin-top: 1.5rem;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #2c3e50 !important;
+}
+
+.navbar a {
+  color: white !important;
+  font-weight: 500;
+}
+
+/* Code block styling */
+pre {
+  background-color: #f4f6f7;
+  border-left: 5px solid #3498db;
+  padding: 12px;
+}
+
+/* Improve plot spacing */
+.figure {
+  margin-bottom: 2rem;
+}
