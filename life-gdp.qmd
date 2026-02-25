@@ -1,5 +1,8 @@
 ---
 title: "Life Expectancy and GDP per Capita"
+format: html
+execute:
+  echo: false
 ---
 
 ## Introduction
@@ -10,13 +13,12 @@ This page analyzes the relationship between life expectancy and GDP per capita o
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load dataset
 df = pd.read_csv("gapminder.csv")
 
-# Scatter plot
 plt.figure()
 plt.scatter(df["gdp_per_capita"], df["life_expectancy"])
 plt.xlabel("GDP per Capita")
 plt.ylabel("Life Expectancy")
 plt.title("Life Expectancy vs GDP per Capita")
 plt.show()
+```

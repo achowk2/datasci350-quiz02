@@ -18,14 +18,14 @@
     "href": "life-gdp.html",
     "title": "Life Expectancy and GDP per Capita",
     "section": "",
-    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset.\nimport pandas as pd import matplotlib.pyplot as plt"
+    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset."
   },
   {
     "objectID": "life-gdp.html#introduction",
     "href": "life-gdp.html#introduction",
     "title": "Life Expectancy and GDP per Capita",
     "section": "",
-    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset.\nimport pandas as pd import matplotlib.pyplot as plt"
+    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset."
   },
   {
     "objectID": "country.html",
