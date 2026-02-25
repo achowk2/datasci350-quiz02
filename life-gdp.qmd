@@ -1,7 +1,5 @@
 ---
 title: "Life Expectancy and GDP per Capita"
-format: html
-engine: python
 ---
 
 ## Introduction

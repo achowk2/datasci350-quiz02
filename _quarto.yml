@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  engine: jupyter
+
 website:
   title: "Gapminder Website"
   navbar:
