@@ -18,14 +18,14 @@
     "href": "life-gdp.html",
     "title": "Life Expectancy and GDP per Capita",
     "section": "",
-    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset."
+    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset.\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\ndf = pd.read_csv(\"gapminder.csv\")\n\nplt.figure()\nplt.scatter(df[\"gdp_per_capita\"], df[\"life_expectancy\"])\nplt.xlabel(\"GDP per Capita\")\nplt.ylabel(\"Life Expectancy\")\nplt.title(\"Life Expectancy vs GDP per Capita\")\nplt.show()"
   },
   {
     "objectID": "life-gdp.html#introduction",
     "href": "life-gdp.html#introduction",
     "title": "Life Expectancy and GDP per Capita",
     "section": "",
-    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset."
+    "text": "This page analyzes the relationship between life expectancy and GDP per capita over time using the Gapminder dataset.\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\ndf = pd.read_csv(\"gapminder.csv\")\n\nplt.figure()\nplt.scatter(df[\"gdp_per_capita\"], df[\"life_expectancy\"])\nplt.xlabel(\"GDP per Capita\")\nplt.ylabel(\"Life Expectancy\")\nplt.title(\"Life Expectancy vs GDP per Capita\")\nplt.show()"
   },
   {
     "objectID": "country.html",
